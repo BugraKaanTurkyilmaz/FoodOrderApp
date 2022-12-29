@@ -1,0 +1,352 @@
+[
+    {
+      "name":"Köfteci Yusuf",
+      "address":"Macun, Ankara Podium AVM, Bağdat Cd. No:66",
+      "delivery_charge": 15,
+      "image":"http://kasimadalan.pe.hu/yemekler/resimler/kofte.png",
+
+      "hours":{
+        "Sunday":"08:30 - 22:00",
+        "Monday":"08:30 - 22:00",
+        "Tuesday":"08:30 - 22:00",
+        "Wednesday":"08:30 - 22:00",
+        "Thursday":"08:30 - 22:00",
+        "Friday":"08:30 - 22:00",
+        "Saturday":"08:30 - 22:00"
+      },
+      "menus": [
+        {
+          "name": "Ayran",
+          "price": 3,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/ayran.png"
+        },
+        {
+          "name": "Baklava",
+          "price": 25,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/baklava.png"
+        },
+        {
+          "name": "Fanta",
+          "price":6,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/fanta.png"
+        },
+        {
+          "name": "Izgara Somon",
+          "price": 55,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/izgarasomon.png"
+        },
+        {
+          "name": "Izgara Tavuk",
+          "price": 27,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/izgaratavuk.png"
+        },
+        {
+          "name": "Kadayıf",
+          "price": 22,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/kadayif.png"
+        },
+        {
+          "name": "Kahve",
+          "price": 16,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/kahve.png"
+        },
+        {
+          "name": "Köfte",
+          "price": 25,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/kofte.png"
+        },
+        {
+          "name": "Lazanya ",
+          "price": 32,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/lazanya.png"
+        },
+        {
+          "name": "Makarna",
+          "price": 28,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/makarna.png"
+        },
+        {
+          "name": "Pizza",
+          "price": 45,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/pizza.png"
+        },
+        {
+          "name": "Su",
+          "price": 2,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/su.png"
+        },
+        {
+          "name": "Sütlaç",
+          "price": 10,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/sutlac.png"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 23,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/tiramisu.png"
+        }
+      ]
+    },
+    {
+      "name":"Domino's Pizza",
+      "address":"1572.Cd No:13",
+      "delivery_charge": 15,
+      "image":"http://kasimadalan.pe.hu/yemekler/resimler/pizza.png",
+
+      "hours":{
+        "Sunday":"11:00 - 24:00 ",
+        "Monday":"11:00 - 24:00",
+        "Tuesday":"11:00 - 24:00",
+        "Wednesday":"11:00 - 24:00",
+        "Thursday":"11:00 - 24:00",
+        "Friday":"11:00 - 24:00",
+        "Saturday":"11:00 - 24:00"
+      },
+      "menus": [
+        {
+          "name": "Ayran",
+          "price": 3,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/ayran.png"
+        },
+        {
+          "name": "Baklava",
+          "price": 25,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/baklava.png"
+        },
+        {
+          "name": "Fanta",
+          "price":6,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/fanta.png"
+        },
+        {
+          "name": "Izgara Somon",
+          "price": 55,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/izgarasomon.png"
+        },
+        {
+          "name": "Izgara Tavuk",
+          "price": 27,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/izgaratavuk.png"
+        },
+        {
+          "name": "Kadayıf",
+          "price": 22,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/kadayif.png"
+        },
+        {
+          "name": "Kahve",
+          "price": 16,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/kahve.png"
+        },
+        {
+          "name": "Köfte",
+          "price": 25,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/kofte.png"
+        },
+        {
+          "name": "Lazanya ",
+          "price": 32,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/lazanya.png"
+        },
+        {
+          "name": "Makarna",
+          "price": 28,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/makarna.png"
+        },
+        {
+          "name": "Pizza",
+          "price": 45,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/pizza.png"
+        },
+        {
+          "name": "Su",
+          "price": 2,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/su.png"
+        },
+        {
+          "name": "Sütlaç",
+          "price": 10,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/sutlac.png"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 23,
+          "url": "http://kasimadalan.pe.hu/yemekler/resimler/tiramisu.png"
+        }
+      ]
+    },
+  {
+    "name":"Karadeniz Balık",
+    "address":" Şehit Kubilay, 1666. Cd. No:9/D",
+    "delivery_charge": 15,
+    "image":"http://kasimadalan.pe.hu/yemekler/resimler/izgarasomon.png",
+    "hours":{
+      "Sunday":"08:30 - 02:00",
+      "Monday":"08:30 - 02:00",
+      "Tuesday":"08:30 - 02:00",
+      "Wednesday":"08:30 - 02:00",
+      "Thursday":"08:30 - 02:00",
+      "Friday":"08:30 - 02:00",
+      "Saturday":"08:30 - 02:00"
+    },
+    "menus": [
+      {
+        "name": "Ayran",
+        "price": 3,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/ayran.png"
+      },
+      {
+        "name": "Baklava",
+        "price": 25,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/baklava.png"
+      },
+      {
+        "name": "Fanta",
+        "price":6,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/fanta.png"
+      },
+      {
+        "name": "Izgara Somon",
+        "price": 55,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/izgarasomon.png"
+      },
+      {
+        "name": "Izgara Tavuk",
+        "price": 27,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/izgaratavuk.png"
+      },
+      {
+        "name": "Kadayıf",
+        "price": 22,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/kadayif.png"
+      },
+      {
+        "name": "Kahve",
+        "price": 16,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/kahve.png"
+      },
+      {
+        "name": "Köfte",
+        "price": 25,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/kofte.png"
+      },
+      {
+        "name": "Lazanya ",
+        "price": 32,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/lazanya.png"
+      },
+      {
+        "name": "Makarna",
+        "price": 28,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/makarna.png"
+      },
+      {
+        "name": "Pizza",
+        "price": 45,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/pizza.png"
+      },
+      {
+        "name": "Su",
+        "price": 2,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/su.png"
+      },
+      {
+        "name": "Sütlaç",
+        "price": 10,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/sutlac.png"
+      },
+      {
+        "name": "Tiramisu",
+        "price": 23,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/tiramisu.png"
+      }
+    ]
+  },
+  {
+    "name":"Hacıbaba Baklava",
+    "address":"Kalaba, Fatih Cd. No:22",
+    "delivery_charge": 15,
+    "image":"http://kasimadalan.pe.hu/yemekler/resimler/baklava.png",
+    "hours":{
+      "Sunday":"08:30 - 20:00",
+      "Monday":"08:30 - 20:00",
+      "Tuesday":"08:30 - 20:00",
+      "Wednesday":"08:30 - 20:00",
+      "Thursday":"08:30 - 20:00",
+      "Friday":"08:30 - 20:00",
+      "Saturday":"08:30 - 20:00"
+    },
+    "menus": [
+      {
+        "name": "Ayran",
+        "price": 3,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/ayran.png"
+      },
+      {
+        "name": "Baklava",
+        "price": 25,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/baklava.png"
+      },
+      {
+        "name": "Fanta",
+        "price":6,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/fanta.png"
+      },
+      {
+        "name": "Izgara Somon",
+        "price": 55,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/izgarasomon.png"
+      },
+      {
+        "name": "Izgara Tavuk",
+        "price": 27,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/izgaratavuk.png"
+      },
+      {
+        "name": "Kadayıf",
+        "price": 22,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/kadayif.png"
+      },
+      {
+        "name": "Kahve",
+        "price": 16,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/kahve.png"
+      },
+      {
+        "name": "Köfte",
+        "price": 25,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/kofte.png"
+      },
+      {
+        "name": "Lazanya ",
+        "price": 32,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/lazanya.png"
+      },
+      {
+        "name": "Makarna",
+        "price": 28,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/makarna.png"
+      },
+      {
+        "name": "Pizza",
+        "price": 45,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/pizza.png"
+      },
+      {
+        "name": "Su",
+        "price": 2,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/su.png"
+      },
+      {
+        "name": "Sütlaç",
+        "price": 10,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/sutlac.png"
+      },
+      {
+        "name": "Tiramisu",
+        "price": 23,
+        "url": "http://kasimadalan.pe.hu/yemekler/resimler/tiramisu.png"
+      }
+    ]
+  }
+]
